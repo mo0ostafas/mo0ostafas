@@ -1,18 +1,18 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 <p align="left">My name is Moustafa Yasser and I'm a Web Developer, from 2017 👨‍💻</p>
 <div align="left">
-  <a href="https://www.youtube.com/@moOostafa_s" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /></a>
-  <a href="https://mooostafas.slack.com/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  /></a>
-  <a href="https://discordapp.com/users/mooostafa_s" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
-  <a href="https://linkedin.com/in/mooostafas" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="https://facebook.com/profile.php?id=100013641902689" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
+  <a href="https://www.youtube.com/@mo0ostafas" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /></a>
+  <a href="https://mo0ostafas.slack.com/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  /></a>
+  <a href="https://discordapp.com/users/mo0ostafas" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+  <a href="https://linkedin.com/in/mo0ostafas" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href="https://facebook.com/mo0ostafas" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
   <a href="https://wa.me/+201553566100" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  /></a>
   <a href="https://t.me/mo0ostafas" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /></a>
   <a href="mailto:mustafayasser031212@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 </div>
 
 <h2 align="left">About me</h2>
-<p align="left">✨ Creating bugs since I was a toddler.<br>📚 I'm currently learning Vue with Nuxt.<br>🎯 Goals: be an unstoppable CIO/CTO.<br>🎲 Fun fact: Attraction can be obsessive.</p>
+<p align="left">✨ Creating bugs since I was a toddler.<br>📚 I'm currently learning Vue with Nuxt.<br>🎯 Goal: CTO in leading tech corporate.<br>🎲 Fun fact: Attraction can be obsessive.</p>
 
 <h2 align="left">I code with</h2>
 <div align="left">
